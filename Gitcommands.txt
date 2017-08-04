@@ -1,7 +1,7 @@
 Github plugin -Eclipse  - https
 Github bash - Command line tool - ssh
 
-
+//Git commands
 git branch
 git show status
 git push
